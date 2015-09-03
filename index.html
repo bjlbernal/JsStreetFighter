@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Gaming</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <link rel="stylesheet" href="css/game.css" />
+    <link rel='stylesheet' href="css/Ryu.css" />
+  </head>
+  <body>
+    <div style="padding:1em; width:100%;">
+      <a href="../">Home</a>
+    </div>
+    <div id="frameByFrame">
+      <div class="frameWindow">
+        <div class="frames"></div>
+      </div>
+      <div class="toggles">
+        <button class="prev">Prev</button>
+        <button class="next">Next</button>
+      </div>
+      <div class="spriteTypeOptions">
+        <label>Character</label>
+        <input type="radio" name="spriteType" value="character" checked="checked" />
+        |
+        <label>Projectile</label>
+        <input type="radio" name="spriteType" value="projectile" />
+      </div>
+    </div>
+    <div id="info">
+
+    </div>
+    <div id="screen">
+      <div id="background"></div>
+      <div id="stage">
+        <div id="player-1" class="character">
+          <div class="Ryu">
+            <div class="hitBox"></div>
+            <div class="hurtBox hurtBoxHead"></div>
+            <div class="hurtBox hurtBoxTorso"></div>
+            <div class="hurtBox hurtBoxLegs"></div>
+          </div>
+        </div>
+        <div id="player-2" class="character">
+          <div class="Ryu">
+            <div class="hitBox"></div>
+            <div class="hurtBox hurtBoxHead"></div>
+            <div class="hurtBox hurtBoxTorso"></div>
+            <div class="hurtBox hurtBoxLegs"></div>
+          </div>
+        </div>
+      </div>
+      <div id="foreground">
+        <div id="scoreboard">
+          <div id="stats-1" class="stat">
+            <div class="hp"></div>
+          </div>
+          <div id="clock" class="clock">
+            <div>
+              <h3>99</h3>
+            </div>
+          </div>
+          <div id="stats-2" class="stat">
+            <div class="hp"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div>
+      <button id="btnUpLft">Q</button>
+      <button id="btnUp">W</button>
+      <button id="btnUpRht">E</button><br />
+      <button id="btnLft">A</button>
+      <button id="btnDwn">S</button>
+      <button id="btnRht">D</button>
+    </div>
+    <div>
+      <label>Punch:</label>
+      <button id="btnPunch1">1</button>
+      <button id="btnPunch2">2</button>
+      <button id="btnPunch3">3</button>
+    </div>
+    <div>
+      <label>Kick:</label>
+      <button id="btnKick1">1</button>
+      <button id="btnKick2">2</button>
+      <button id="btnKick3">3</button>
+    </div>
+    <div>
+      <label>Haduken:</label>
+      <button id="btnHaduken1">1</button>
+      <button id="btnHaduken2">2</button>
+      <button id="btnHaduken3">3</button>
+    </div>
+    <div>
+      <label>Shoryuken</label>
+      <button id="btnShoryuken1">1</button>
+      <button id="btnShoryuken2">2</button>
+      <button id="btnShoryuken3">3</button>
+    </div>
+    <div>
+      <label>Hurricane Kick</label>
+      <button id="btnHurricaneKick1">1</button>
+      <button id="btnHurricaneKick2">2</button>
+      <button id="btnHurricaneKick3">3</button>
+    </div>
+    <div>
+      <button id="btnGrappleKick1">Grapple Kick</button>
+      <button id="btnGrapplePunch1">Grapple Punch</button>
+    </div>
+    <script type="text/javascript" src="../../js/jquery/jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="js/engine.js"></script>
+  </body>
+</html>
+

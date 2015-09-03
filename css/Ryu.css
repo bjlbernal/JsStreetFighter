@@ -1,0 +1,415 @@
+.character .Ryu { background-image: url('../img/Ryu.gif'); border: 1px solid #e0e0e0; margin: auto; overflow-x: hidden; overflow-y: hidden; position: absolute; }
+.Ryu.combatReady-1 { height: 100px; width: 61px; background-position: -18px -7px; top: -100px; }
+.Ryu.combatReady-2 { height: 100px; width: 63px; background-position: -92px -7px; top: -100px; }
+.Ryu.combatReady-3 { height: 103px; width: 67px; background-position: -167px -4px; top: -103px; }
+.Ryu.combatReady-4 { height: 103px; width: 70px; background-position: -245px -4px; top: -103px; left: -1px; }
+.Ryu.combatReady-5 { height: 100px; width: 64px; background-position: -322px -7px; top: -100px; }
+.Ryu.combatReady-6 { height: 100px; width: 61px; background-position: -395px -7px; top: -100px; }
+.Ryu.combatReady-7 { height: 100px; width: 61px; background-position: -466px -7px; top: -100px; }
+.Ryu.combatReady-8 { height: 100px; width: 61px; background-position: -536px -8px; top: -100px; }
+.Ryu.combatReady-9 { height: 100px; width: 61px; background-position: -38px -121px; top: -100px; }
+.Ryu.combatReady-10 { height: 94px; width: 68px; background-position: -111px -127px; top: -94px; }
+.Ryu.combatReady-11 { height: 94px; width: 66px; background-position: -190px -127px; top: -94px; }
+.Ryu.combatReady-12 { height: 93px; width: 66px; background-position: -270px -128px; top: -93px; }
+.Ryu.combatReady-13 { height: 94px; width: 66px; background-position: -350px -127px; top: -94px; }
+.Ryu.combatReady-14 { height: 96px; width: 66px; background-position: -427px -125px; top: -96px; }
+.Ryu.combatReady-15 { height: 98px; width: 64px; background-position: -506px -123px; top: -98px; }
+
+.Ryu.grappleKick1-1 { background-position: -248px -2208px; width: 78px; height: 95px; top: -95px; left: 5px; }
+.Ryu.grappleKick1-2 { background-position: -338px -2208px; width: 85px; height: 95px; top: -95px; left: 5px; }
+.Ryu.grappleKick1-3 { background-position: -435px -2213px; width: 84px; height: 88px; top: -88px; }
+.Ryu.grappleKick1-4 { background-position: -435px -2213px; width: 84px; height: 88px; top: -88px; }
+.Ryu.grappleKick1-5 { background-position: -309px -2323px; width: 75px; height: 81px; top: -81px; left: -15px; }
+.Ryu.grappleKick1-6 { background-position: -401px -2346px; width: 82px; height: 60px; top: -60px; left: -62px; }
+.Ryu.grappleKick1-7 { background-position: -507px -2347px; width: 124px; height: 57px; top: -57px; left: -105px; }
+.Ryu.grappleKick1-8 { background-position: -507px -2347px; width: 124px; height: 57px; top: -57px; left: -105px; }
+.Ryu.grappleKick1-9 { background-position: -507px -2347px; width: 124px; height: 57px; top: -57px; left: -105px; }
+.Ryu.grappleKick1-10 { background-position: -15px -2468px; width: 94px; height: 49px; top: -49px; left: -80px; }
+.Ryu.grappleKick1-11 { background-position: -15px -2468px; width: 94px; height: 49px; top: -49px; left: -80px; }
+.Ryu.grappleKick1-12 { background-position: -127px -2453px; width: 70px; height: 65px; top: -65px; }
+.Ryu.grappleKick1-13 { background-position: -127px -2453px; width: 70px; height: 65px; top: -65px; }
+.Ryu.grappleKick1-14 { background-position: -89px -603px; height: 65px; width: 62px; top: -65px; -moz-transform: scaleX(-1); -o-transform: scaleX(-1); -webkit-transform: scaleX(-1); transform: scaleX(-1); filter: FlipH; -ms-filter: "FlipH"; }
+.Ryu.grappleKick1-15 { background-position: -9px -596px; height: 72px; width: 62px; top: -72px; -moz-transform: scaleX(-1); -o-transform: scaleX(-1); -webkit-transform: scaleX(-1); transform: scaleX(-1); filter: FlipH; -ms-filter: "FlipH"; }
+.Ryu.grappleKick1-16 { background-position: -37px -459px; height: 89px; width: 63px; top: -89px; -moz-transform: scaleX(-1); -o-transform: scaleX(-1); -webkit-transform: scaleX(-1); transform: scaleX(-1); filter: FlipH; -ms-filter: "FlipH"; }
+
+.Ryu.grapplePunch1-1 { background-position: -248px -2208px; width: 78px; height: 95px; top: -95px; left: 5px; }
+.Ryu.grapplePunch1-2 { background-position: -338px -2208px; width: 85px; height: 95px; top: -95px; left: 5px; }
+.Ryu.grapplePunch1-3 { background-position: -435px -2213px; width: 84px; height: 88px; top: -88px; }
+.Ryu.grapplePunch1-4 { background-position: -435px -2213px; width: 84px; height: 88px; top: -88px; }
+.Ryu.grapplePunch1-5 { background-position: -527px -2207px; width: 85px; height: 95px; top: -95px; left: 2px; }
+.Ryu.grapplePunch1-6 { background-position: -527px -2207px; width: 85px; height: 95px; top: -95px; left: 2px; }
+.Ryu.grapplePunch1-7 { background-position: -30px -2315px; width: 76px; height: 91px; top: -91px; }
+.Ryu.grapplePunch1-8 { background-position: -117px -2326px; width: 88px; height: 80px; top: -80px; left: -28px; }
+.Ryu.grapplePunch1-9 { background-position: -221px -2344px; width: 72px; height: 60px; top: -62px; left: -27px; }
+.Ryu.grapplePunch1-10 { background-position: -221px -2344px; width: 72px; height: 60px; top: -62px; left: -27px; }
+.Ryu.grapplePunch1-11 { background-position: -221px -2344px; width: 72px; height: 60px; top: -62px; left: -27px; }
+.Ryu.grapplePunch1-12 { background-position: -221px -2344px; width: 72px; height: 60px; top: -62px; left: -27px; }
+
+.Ryu.haduken1-1, .Ryu.haduken2-1 { height: 90px; width: 74px; background-position: -51px -1597px; top: -90px; }
+.Ryu.haduken1-2, .Ryu.haduken2-2 { height: 85px; width: 91px; background-position: -139px -1602px; top: -85px; }
+.Ryu.haduken1-3, .Ryu.haduken2-3 { height: 80px; width: 96px; background-position: -240px -1607px; top: -80px; }
+.Ryu.haduken1-4, .Ryu.haduken2-4 { height: 77px; width: 114px; background-position: -344px -1611px; top: -77px; left: 5px; }
+.Ryu.haduken1-5, .Ryu.haduken2-5 { height: 79px; width: 114px; background-position: -470px -1609px; top: -79px; left: 5px; }
+.Ryu.haduken1-6, .Ryu.haduken2-6 { height: 77px; width: 114px; background-position: -344px -1611px; top: -77px; left: 5px; }
+.Ryu.haduken1-7, .Ryu.haduken2-7 { height: 79px; width: 114px; background-position: -470px -1609px; top: -79px; left: 5px; }
+
+.Ryu.haduken3-1 { height: 90px; width: 74px; background-position: -51px -1597px; top: -90px; }
+.Ryu.haduken3-2 { height: 90px; width: 91px; background-position: -139px -1597px; top: -90px;}
+.Ryu.haduken3-3 { height: 90px; width: 111px; background-position: -25px -1702px; top: -90px; left: -20px; }
+.Ryu.haduken3-4 { height: 90px; width: 91px; background-position: -151px -1702px; top: -90px;}
+.Ryu.haduken3-5 { height: 90px; width: 111px; background-position: -247px -1702px; top: -90px; left: -20px; }
+.Ryu.haduken3-6 { height: 90px; width: 91px; background-position: -374px -1702px; top: -90px; }
+.Ryu.haduken3-7 { height: 90px; width: 117px; background-position: -473px -1702px; top: -90px; left: -26px;}
+.Ryu.haduken3-8 { height: 90px; width: 115px; background-position: -3px -1812px; top: -90px; left: -24px; }
+.Ryu.haduken3-9 { height: 90px; width: 115px; background-position: -126px -1811px; top: -90px; left: -24px; }
+.Ryu.haduken3-10 { height: 90px; width: 117px; background-position: -254px -1812px; top: -90px; left: -26px; }
+.Ryu.haduken3-11 { height: 90px; width: 98px; background-position: -385px -1813px; top: -90px; }
+.Ryu.haduken3-12 { height: 90px; width: 144px; background-position: -490px -1812px; top: -90px; }
+.Ryu.haduken3-13 { height: 90px; width: 114px; background-position: -344px -1598px; top: -90px; left: 5px; }
+.Ryu.haduken3-14 { height: 90px; width: 114px; background-position: -470px -1598px; top: -90px; left: 5px; }
+.Ryu.haduken3-15 { height: 90px; width: 114px; background-position: -344px -1598px; top: -90px; left: 5px; }
+.Ryu.haduken3-16 { height: 90px; width: 114px; background-position: -470px -1598px; top: -90px; left: 5px; }
+
+.Ryu.hurricaneKick1-1 { height: 110px; width: 71px; background-position: -70px -1921px; top: -110px; left: -10px; }
+.Ryu.hurricaneKick1-2 { height: 87px; width: 61px; background-position: -158px -1925px; top: -120px; left: -10px; }
+.Ryu.hurricaneKick1-3 { height: 68px; width: 54px; background-position: -234px -1930px; top: -130px; left: -10px; }
+.Ryu.hurricaneKick1-4 { height: 104px; width: 95px; background-position: -306px -1920px; top: -134px; left: 10px; }
+.Ryu.hurricaneKick1-5 { height: 104px; width: 58px; background-position: -409px -1923px; top: -134px; left: -10px; }
+.Ryu.hurricaneKick1-6 { height: 98px; width: 96px; background-position: -474px -1927px; top: -128px; left: -40px; }
+.Ryu.hurricaneKick1-7 { height: 98px; width: 61px; background-position: -14px -2061px; top: -128px; left: 10px; }
+.Ryu.hurricaneKick1-8 { height: 104px; width: 53px; background-position: -94px -2057px; top: -134px; left: 10px; }
+.Ryu.hurricaneKick1-9 { height: 104px; width: 53px; background-position: -163px -2056px; top: -134px; left: 10px; }
+.Ryu.hurricaneKick1-10 { height: 98px; width: 54px; background-position: -240px -2061px; top: -128px; left: 10px; }
+.Ryu.hurricaneKick1-11 { height: 98px; width: 53px; background-position: -313px -2056px; top: -118px; }
+.Ryu.hurricaneKick1-12 { height: 104px; width: 53px; background-position: -94px -2057px; top: -114px; left: 10px; }
+.Ryu.hurricaneKick1-13 { height: 104px; width: 53px; background-position: -163px -2056px; top: -104px; left: 10px; }
+
+.Ryu.hurricaneKick2-1 { height: 110px; width: 71px; background-position: -70px -1921px; top: -110px; left: -10px; }
+.Ryu.hurricaneKick2-2 { height: 87px; width: 61px; background-position: -158px -1925px; top: -120px; left: -10px; }
+.Ryu.hurricaneKick2-3 { height: 68px; width: 54px; background-position: -234px -1930px; top: -130px; left: -10px; }
+.Ryu.hurricaneKick2-4 { height: 104px; width: 95px; background-position: -306px -1920px; top: -134px; left: 10px; }
+.Ryu.hurricaneKick2-5 { height: 104px; width: 58px; background-position: -409px -1923px; top: -134px; left: -10px; }
+.Ryu.hurricaneKick2-6 { height: 98px; width: 96px; background-position: -474px -1927px; top: -128px; left: -40px; }
+.Ryu.hurricaneKick2-7 { height: 98px; width: 61px; background-position: -14px -2061px; top: -128px; left: 10px; }
+.Ryu.hurricaneKick2-8 { height: 104px; width: 95px; background-position: -306px -1920px; top: -134px; left: 10px; }
+.Ryu.hurricaneKick2-9 { height: 104px; width: 58px; background-position: -409px -1923px; top: -134px; left: -10px; }
+.Ryu.hurricaneKick2-10 { height: 98px; width: 96px; background-position: -474px -1927px; top: -128px; left: -40px; }
+.Ryu.hurricaneKick2-11 { height: 98px; width: 61px; background-position: -14px -2061px; top: -128px; left: 10px; }
+.Ryu.hurricaneKick2-12 { height: 104px; width: 53px; background-position: -94px -2057px; top: -134px; left: 10px; }
+.Ryu.hurricaneKick2-13 { height: 104px; width: 53px; background-position: -163px -2056px; top: -134px; left: 10px; }
+.Ryu.hurricaneKick2-14 { height: 98px; width: 54px; background-position: -240px -2061px; top: -128px; left: 10px; }
+.Ryu.hurricaneKick2-15 { height: 98px; width: 53px; background-position: -313px -2056px; top: -118px; }
+.Ryu.hurricaneKick2-16 { height: 104px; width: 53px; background-position: -94px -2057px; top: -114px; left: 10px; }
+.Ryu.hurricaneKick2-17 { height: 104px; width: 53px; background-position: -163px -2056px; top: -104px; left: 10px; }
+
+.Ryu.hurricaneKick3-1 { height: 110px; width: 71px; background-position: -70px -1921px; top: -110px; left: -10px; }
+.Ryu.hurricaneKick3-2 { height: 87px; width: 61px; background-position: -158px -1925px; top: -120px; left: -10px; }
+.Ryu.hurricaneKick3-3 { height: 68px; width: 54px; background-position: -234px -1930px; top: -130px; left: -10px; }
+.Ryu.hurricaneKick3-4 { height: 104px; width: 95px; background-position: -306px -1920px; top: -134px; left: 10px; }
+.Ryu.hurricaneKick3-5 { height: 104px; width: 58px; background-position: -409px -1923px; top: -134px; left: -10px; }
+.Ryu.hurricaneKick3-6 { height: 98px; width: 96px; background-position: -474px -1927px; top: -128px; left: -40px; }
+.Ryu.hurricaneKick3-7 { height: 98px; width: 61px; background-position: -14px -2061px; top: -128px; left: 10px; }
+.Ryu.hurricaneKick3-8 { height: 104px; width: 95px; background-position: -306px -1920px; top: -134px; left: 10px; }
+.Ryu.hurricaneKick3-9 { height: 104px; width: 58px; background-position: -409px -1923px; top: -134px; left: -10px; }
+.Ryu.hurricaneKick3-10 { height: 98px; width: 96px; background-position: -474px -1927px; top: -128px; left: -40px; }
+.Ryu.hurricaneKick3-11 { height: 98px; width: 61px; background-position: -14px -2061px; top: -128px; left: 10px; }
+.Ryu.hurricaneKick3-12 { height: 104px; width: 95px; background-position: -306px -1920px; top: -134px; left: 10px; }
+.Ryu.hurricaneKick3-13 { height: 104px; width: 58px; background-position: -409px -1923px; top: -134px; left: -10px; }
+.Ryu.hurricaneKick3-14 { height: 98px; width: 96px; background-position: -474px -1927px; top: -128px; left: -40px; }
+.Ryu.hurricaneKick3-15 { height: 98px; width: 61px; background-position: -14px -2061px; top: -128px; left: 10px; }
+.Ryu.hurricaneKick3-16 { height: 104px; width: 53px; background-position: -94px -2057px; top: -134px; left: 10px; }
+.Ryu.hurricaneKick3-17 { height: 104px; width: 53px; background-position: -163px -2056px; top: -134px; left: 10px; }
+.Ryu.hurricaneKick3-18 { height: 98px; width: 54px; background-position: -240px -2061px; top: -128px; left: 10px; }
+.Ryu.hurricaneKick3-19 { height: 98px; width: 53px; background-position: -313px -2056px; top: -118px; }
+.Ryu.hurricaneKick3-20 { height: 104px; width: 53px; background-position: -94px -2057px; top: -114px; left: 10px; }
+.Ryu.hurricaneKick3-21 { height: 104px; width: 53px; background-position: -163px -2056px; top: -104px; left: 10px; }
+
+.Ryu.idle-1 { height: 96px; width: 66px; background-position: -427px -125px; top: -96px; }
+.Ryu.idle-1 .hitBox { position: absolute; top: 96px; }
+.Ryu.idle-1 .hurtBoxHead { height: 15px; width: 18px; position: absolute; left: 29px; }
+.Ryu.idle-1 .hurtBoxTorso { height: 31px; width: 58px; position: absolute; top: 12px; left: 5px; }
+.Ryu.idle-1 .hurtBoxLegs { height: 53px; width: 66px; position: absolute; top: 43px; }
+.Ryu.idle-2 { height: 94px; width: 66px; background-position: -350px -127px; top: -94px; }
+.Ryu.idle-2 .hitBox { position: absolute; top: 94px; }
+.Ryu.idle-2 .hurtBoxHead { height: 15px; width: 18px; position: absolute; left: 29px; }
+.Ryu.idle-2 .hurtBoxTorso { height: 31px; width: 59px; position: absolute; top: 12px; left: 5px; }
+.Ryu.idle-2 .hurtBoxLegs { height: 52px; width: 66px; position: absolute; top: 43px; }
+.Ryu.idle-3 { height: 93px; width: 66px; background-position: -270px -128px; top: -93px; }
+.Ryu.idle-3 .hitBox { position: absolute; top: 93px; }
+.Ryu.idle-3 .hurtBoxHead { height: 15px; width: 18px; position: absolute; left: 29px; }
+.Ryu.idle-3 .hurtBoxTorso { height: 31px; width: 60px; position: absolute; top: 12px; left: 5px; }
+.Ryu.idle-3 .hurtBoxLegs { height: 51px; width: 66px; position: absolute; top: 43px; }
+.Ryu.idle-4 { height: 94px; width: 66px; background-position: -350px -127px; top: -94px; }
+.Ryu.idle-4 .hitBox { position: absolute; top: 94px; }
+.Ryu.idle-4 .hurtBoxHead { height: 15px; width: 18px; position: absolute; left: 29px; }
+.Ryu.idle-4 .hurtBoxTorso { height: 31px; width: 58px; position: absolute; top: 12px; left: 5px; }
+.Ryu.idle-4 .hurtBoxLegs { height: 52px; width: 66px; position: absolute; top: 43px; }
+.Ryu.idle-5 { height: 96px; width: 66px; background-position: -427px -125px; top: -96px; }
+.Ryu.idle-5 .hitBox { position: absolute; top: 96px; }
+.Ryu.idle-5 .hurtBoxHead { height: 15px; width: 18px; position: absolute; left: 29px; }
+.Ryu.idle-5 .hurtBoxTorso { height: 31px; width: 58px; position: absolute; top: 12px; left: 5px; }
+.Ryu.idle-5 .hurtBoxLegs { height: 53px; width: 66px; position: absolute; top: 43px; }
+.Ryu.idle-6 { height: 98px; width: 64px; background-position: -506px -123px; top: -98px; }
+.Ryu.idle-6 .hitBox { position: absolute; top: 98px; }
+.Ryu.idle-6 .hurtBoxHead { height: 15px; width: 18px; position: absolute; left: 28px; }
+.Ryu.idle-6 .hurtBoxTorso { height: 31px; width: 55px; position: absolute; top: 12px; left: 5px; }
+.Ryu.idle-6 .hurtBoxLegs { height: 55px; width: 66px; position: absolute; top: 43px; }
+
+.Ryu.kick1-1 { background-position: -537px -930px; width: 83px; height: 101px; top: -101px; }
+.Ryu.kick1-2 { background-position: -177px -932px; width: 83px; height: 99px; top: -101px; left: 6px; }
+.Ryu.kick1-3 { background-position: -271px -939px; width: 59px; height: 91px; top: -93px; left: 22px; }
+.Ryu.kick1-4 { background-position: -343px -944px; width: 101px; height: 86px; top: -88px; left: 13px; }
+.Ryu.kick1-5 { background-position: -457px -943px; width: 55px; height: 88px; top: -89px; left: 23px; }
+
+.Ryu.kick2-1 { background-position: -40px -1047px; width: 67px; height: 94px; top: -94px; }
+.Ryu.kick2-2 { background-position: -121px -1046px; width: 65px; height: 94px; top: -94px; left: -23px; }
+.Ryu.kick2-3 { background-position: -200px -1051px; width: 118px; height: 90px; top: -90px; left: -35px; }
+.Ryu.kick2-4 { background-position: -121px -1046px; width: 65px; height: 94px; top: -94px; left: -23px; }
+.Ryu.kick2-5 { background-position: -40px -1047px; width: 67px; height: 94px; top: -94px; }
+
+.Ryu.kick3-1 { background-position: -330px -1048px; width: 64px; height: 94px; top: -94px; }
+.Ryu.kick3-2 { background-position: -409px -1051px; width: 63px; height: 90px; top: -90px; left: 10px; }
+.Ryu.kick3-3 { background-position: -485px -1049px; width: 86px; height: 94px; top: -94px; left: 5px; }
+.Ryu.kick3-4 { background-position: -6px -1160px; width: 109px; height: 97px; top: -97px; left: 10px; }
+.Ryu.kick3-5 { background-position: -125px -1168px; width: 90px; height: 88px; top: -88px; left: 7px; }
+.Ryu.kick3-6 { background-position: -233px -1165px; width: 54px; height: 92px; top: -92px; left: 17px; }
+
+.Ryu.moveDwn-1 { height: 89px; width: 63px; background-position: -37px -459px; top: -89px; }
+.Ryu.moveDwn-1 .hurtBoxHead { height: 17px; width: 17px; position: absolute; left: 26px; }
+.Ryu.moveDwn-1 .hurtBoxTorso { height: 32px; width: 56px; position: absolute; top: 13px; left: 3px; }
+.Ryu.moveDwn-1 .hurtBoxLegs { height: 44px; width: 63px; position: absolute; top: 45px; }
+.Ryu.moveDwn-2 { height: 72px; width: 62px; background-position: -9px -596px; top: -72px; }
+.Ryu.moveDwn-2 .hurtBoxHead { height: 18px; width: 17px; position: absolute; left: 26px; }
+.Ryu.moveDwn-2 .hurtBoxTorso { height: 32px; width: 57px; position: absolute; top: 13px; left: 3px; }
+.Ryu.moveDwn-2 .hurtBoxLegs { height: 27px; width: 62px; position: absolute; top: 45px; }
+.Ryu.moveDwn-3 { height: 65px; width: 62px; background-position: -89px -603px; top: -65px; }
+.Ryu.moveDwn-3 .hurtBoxHead { height: 16px; width: 18px; position: absolute; left: 26px; }
+.Ryu.moveDwn-3 .hurtBoxTorso { height: 32px; width: 58px; position: absolute; top: 13px; left: 3px; }
+.Ryu.moveDwn-3 .hurtBoxLegs { height: 20px; width: 62px; position: absolute; top: 45px; }
+
+.Ryu.moveLft-1 { height: 93px; width: 61px; background-position: -66px -347px; top: -93px; }
+.Ryu.moveLft-1 .hurtBoxHead { height: 16px; width: 16px; position: absolute; left: 20px; }
+.Ryu.moveLft-1 .hurtBoxTorso { height: 33px; width: 54px; position: absolute; top: 12px; }
+.Ryu.moveLft-1 .hurtBoxLegs { height: 48px; width: 56px; position: absolute; top: 45px; left: 5px; }
+.Ryu.moveLft-2 { height: 94px; width: 54px; background-position: -143px -346px; top: -94px; }
+.Ryu.moveLft-2 .hurtBoxHead { height: 16px; width: 16px; position: absolute; left: 20px; }
+.Ryu.moveLft-2 .hurtBoxTorso { height: 33px; width: 54px; position: absolute; top: 12px; }
+.Ryu.moveLft-2 .hurtBoxLegs { height: 49px; width: 43px; position: absolute; top: 45px; left: 9px; }
+.Ryu.moveLft-3 { height: 95px; width: 54px; background-position: -221px -345px; top: -95px; }
+.Ryu.moveLft-3 .hurtBoxHead { height: 16px; width: 16px; position: absolute; left: 20px; }
+.Ryu.moveLft-3 .hurtBoxTorso { height: 33px; width: 54px; position: absolute; top: 12px; }
+.Ryu.moveLft-3 .hurtBoxLegs { height: 50px; width: 50px; position: absolute; top: 45px; left: 3px; }
+.Ryu.moveLft-4 { height: 95px; width: 61px; background-position: -292px -346px; top: -95px; }
+.Ryu.moveLft-4 .hurtBoxHead { height: 16px; width: 16px; position: absolute; left: 27px; }
+.Ryu.moveLft-4 .hurtBoxTorso { height: 33px; width: 54px; position: absolute; top: 12px; left: 7px; }
+.Ryu.moveLft-4 .hurtBoxLegs { height: 50px; width: 61px; position: absolute; top: 45px; }
+.Ryu.moveLft-5 { height: 93px; width: 63px; background-position: -369px -348px; top: -93px; }
+.Ryu.moveLft-5 .hurtBoxHead { height: 16px; width: 16px; position: absolute; left: 29px; }
+.Ryu.moveLft-5 .hurtBoxTorso { height: 33px; width: 54px; position: absolute; top: 12px; left: 9px; }
+.Ryu.moveLft-5 .hurtBoxLegs { height: 48px; width: 62px; position: absolute; top: 45px; }
+.Ryu.moveLft-6 { height: 89px; width: 63px; background-position: -456px -351px; top: -89px; }
+.Ryu.moveLft-6 .hurtBoxHead { height: 16px; width: 17px; position: absolute; left: 20px; }
+.Ryu.moveLft-6 .hurtBoxTorso { height: 33px; width: 53px; position: absolute; top: 12px; left: 2px; }
+.Ryu.moveLft-6 .hurtBoxLegs { height: 44px; width: 63px; position: absolute; top: 45px; }
+
+.Ryu.moveRht-1 { height: 93px; width: 70px; background-position: -64px -238px; top: -93px; }
+.Ryu.moveRht-1 .hurtBoxHead { height: 16px; width: 16px; position: absolute; left: 37px; }
+.Ryu.moveRht-1 .hurtBoxTorso { height: 30px; width: 55px; position: absolute; top: 15px; left: 14px; }
+.Ryu.moveRht-1 .hurtBoxLegs { height: 48px; width: 62px; position: absolute; top: 45px; }
+.Ryu.moveRht-2 { height: 95px; width: 68px; background-position: -145px -236px; top: -95px; }
+.Ryu.moveRht-2 .hurtBoxHead { height: 16px; width: 16px; position: absolute; left: 37px; }
+.Ryu.moveRht-2 .hurtBoxTorso { height: 30px; width: 55px; position: absolute; top: 15px; left: 14px; }
+.Ryu.moveRht-2 .hurtBoxLegs { height: 50px; width: 62px; position: absolute; top: 45px; }
+.Ryu.moveRht-3 { height: 95px; width: 59px; background-position: -228px -236px; top: -95px; }
+.Ryu.moveRht-3 .hurtBoxHead { height: 16px; width: 16px; position: absolute; left: 29px; }
+.Ryu.moveRht-3 .hurtBoxTorso { height: 30px; width: 50px; position: absolute; top: 15px; left: 7px; }
+.Ryu.moveRht-3 .hurtBoxLegs { height: 50px; width: 50px; position: absolute; top: 45px; }
+.Ryu.moveRht-4 { height: 94px; width: 54px; background-position: -307px -236px; top: -94px; }
+.Ryu.moveRht-4 .hurtBoxHead { height: 16px; width: 16px; position: absolute; left: 23px; }
+.Ryu.moveRht-4 .hurtBoxTorso { height: 30px; width: 53px; position: absolute; top: 15px; }
+.Ryu.moveRht-4 .hurtBoxLegs { height: 49px; width: 45px; position: absolute; top: 45px; }
+.Ryu.moveRht-5 { height: 93px; width: 56px; background-position: -379px -237px; top: -93px; }
+.Ryu.moveRht-5 .hurtBoxHead { height: 16px; width: 16px; position: absolute; left: 23px; }
+.Ryu.moveRht-5 .hurtBoxTorso { height: 30px; width: 55px; position: absolute; top: 15px; }
+.Ryu.moveRht-5 .hurtBoxLegs { height: 48px; width: 56px; position: absolute; top: 45px; }
+.Ryu.moveRht-6 { height: 89px; width: 63px; background-position: -455px -241px; top: -89px; }
+.Ryu.moveRht-6 .hurtBoxHead { height: 16px; width: 16px; position: absolute; left: 27px; }
+.Ryu.moveRht-6 .hurtBoxTorso { height: 30px; width: 56px; position: absolute; top: 13px; left: 3px; }
+.Ryu.moveRht-6 .hurtBoxLegs { height: 46px; width: 63px; position: absolute; top: 43px; }
+
+.Ryu.moveUp-1 { height: 89px; width: 63px; background-position: -37px -459px; top: -89px; }
+.Ryu.moveUp-1 .hurtBoxHead { height: 16px; width: 16px; position: absolute; left: 26px; }
+.Ryu.moveUp-1 .hurtBoxTorso { height: 30px; width: 57px; position: absolute; top: 13px; left: 3px; }
+.Ryu.moveUp-1 .hurtBoxLegs { height: 46px; width: 63px; position: absolute; top: 43px; }
+.Ryu.moveUp-2 { height: 108px; width: 62px; background-position: -115px -461px; top: -108px; }
+.Ryu.moveUp-2 .hurtBoxHead { height: 16px; width: 43px; position: absolute; left: 14px; }
+.Ryu.moveUp-2 .hurtBoxTorso { height: 50px; width: 59px; position: absolute; top: 13px; left: 3px; }
+.Ryu.moveUp-2 .hurtBoxLegs { height: 45px; width: 30px; position: absolute; top: 63px; left: 10px; }
+.Ryu.moveUp-3 { height: 88px; width: 64px; background-position: -193px -461px; top: -134px; }
+.Ryu.moveUp-3 .hurtBoxHead { height: 16px; width: 16px; position: absolute; left: 23px; }
+.Ryu.moveUp-3 .hurtBoxTorso { height: 46px; width: 61px; position: absolute; top: 13px; left: 3px; }
+.Ryu.moveUp-3 .hurtBoxLegs { height: 29px; width: 30px; position: absolute; top: 59px; left: 3px; }
+.Ryu.moveUp-4 { height: 70px; width: 61px; background-position: -274px -463px; top: -159px; }
+.Ryu.moveUp-4 .hurtBoxHead { height: 16px; width: 16px; position: absolute; left: 26px; }
+.Ryu.moveUp-4 .hurtBoxTorso { height: 37px; width: 61px; position: absolute; top: 8px; }
+.Ryu.moveUp-4 .hurtBoxLegs { height: 25px; width: 51px; position: absolute; top: 45px; }
+.Ryu.moveUp-5 { height: 65px; width: 61px; background-position: -348px -468px; top: -159px; }
+.Ryu.moveUp-5 .hurtBoxHead { height: 16px; width: 16px; position: absolute; left: 32px; }
+.Ryu.moveUp-5 .hurtBoxTorso { height: 38px; width: 60px; position: absolute; top: 8px; left: 1px; }
+.Ryu.moveUp-5 .hurtBoxLegs { height: 19px; width: 50px; position: absolute; top: 46px; left: 3px; }
+.Ryu.moveUp-6 { height: 86px; width: 64px; background-position: -425px -464px; top: -134px; }
+.Ryu.moveUp-6 .hurtBoxHead { height: 16px; width: 16px; position: absolute; left: 23px; }
+.Ryu.moveUp-6 .hurtBoxTorso { height: 41px; width: 61px; position: absolute; top: 8px; left: 3px; }
+.Ryu.moveUp-6 .hurtBoxLegs { height: 37px; width: 37px; position: absolute; top: 49px; left: 12px; }
+.Ryu.moveUp-7 { height: 116px; width: 62px; background-position: -506px -453px; top: -116px; }
+.Ryu.moveUp-7 .hurtBoxHead { height: 15px; width: 44px; position: absolute; top: 12px; left: 14px; }
+.Ryu.moveUp-7 .hurtBoxTorso { height: 40px; width: 59px; position: absolute; top: 27px; left: 3px; }
+.Ryu.moveUp-7 .hurtBoxLegs { height: 49px; width: 30px; position: absolute; top: 67px; left: 10px; }
+.Ryu.moveUp-8 { height: 89px; width: 63px; background-position: -37px -459px; top: -89px; }
+.Ryu.moveUp-8 .hurtBoxHead { height: 16px; width: 16px; position: absolute; left: 26px; }
+.Ryu.moveUp-8 .hurtBoxTorso { height: 30px; width: 57px; position: absolute; top: 13px; left: 3px; }
+.Ryu.moveUp-8 .hurtBoxLegs { height: 46px; width: 63px; position: absolute; top: 43px; }
+
+.Ryu.moveUpLft-1 { height: 89px; width: 63px; background-position: -37px -459px; top: -89px; }
+.Ryu.moveUpLft-1 .hurtBoxHead { height: 16px; width: 16px; position: absolute; left: 26px; }
+.Ryu.moveUpLft-1 .hurtBoxTorso { height: 30px; width: 57px; position: absolute; top: 13px; left: 3px; }
+.Ryu.moveUpLft-1 .hurtBoxLegs { height: 46px; width: 63px; position: absolute; top: 43px; }
+.Ryu.moveUpLft-2 { height: 108px; width: 62px; background-position: -185px -700px; top: -108px; }
+.Ryu.moveUpLft-3 { height: 88px; width: 64px; background-position: -105px -709px; top: -134px; }
+.Ryu.moveUpLft-4 { height: 94px; width: 70px; background-position: -12px -709px; top: -134px; }
+.Ryu.moveUpLft-5 { height: 52px; width: 115px; background-position: -518px -605px; top: -159px; }
+.Ryu.moveUpLft-6 { height: 77px; width: 55px; background-position: -446px -583px; top: -159px; }
+.Ryu.moveUpLft-7 { height: 46px; width: 93px; background-position: -332px -600px; top: -134px; }
+.Ryu.moveUpLft-8 { height: 90px; width: 60px; background-position: -255px -580px; top: -134px; }
+.Ryu.moveUpLft-9 { height: 108px; width: 61px; background-position: -178px -576px; top: -108px; }
+
+.Ryu.moveUpRht-1 { height: 89px; width: 63px; background-position: -37px -459px; top: -89px; }
+.Ryu.moveUpRht-1 .hurtBoxHead { height: 16px; width: 16px; position: absolute; left: 26px; }
+.Ryu.moveUpRht-1 .hurtBoxTorso { height: 30px; width: 57px; position: absolute; top: 13px; left: 3px; }
+.Ryu.moveUpRht-1 .hurtBoxLegs { height: 46px; width: 63px; position: absolute; top: 43px; }
+.Ryu.moveUpRht-2 { height: 108px; width: 61px; background-position: -178px -576px; top: -108px; }
+.Ryu.moveUpRht-3 { height: 90px; width: 60px; background-position: -255px -580px; top: -134px; }
+.Ryu.moveUpRht-4 { height: 46px; width: 93px; background-position: -332px -600px; top: -134px; }
+.Ryu.moveUpRht-5 { height: 77px; width: 55px; background-position: -446px -583px; top: -159px; }
+.Ryu.moveUpRht-6 { height: 52px; width: 115px; background-position: -518px -605px; top: -159px; }
+.Ryu.moveUpRht-7 { height: 94px; width: 70px; background-position: -12px -709px; top: -134px; }
+.Ryu.moveUpRht-8 { height: 88px; width: 64px; background-position: -105px -709px; top: -134px; }
+.Ryu.moveUpRht-9 { height: 108px; width: 62px; background-position: -185px -700px; top: -108px; }
+
+.Ryu.punch1-1 { background-position: -434px -700px; width: 77px; height: 94px; top: -94px; }
+.Ryu.punch1-1 .hitBox { height: 12px; width: 15px; position: absolute; top: 12px; left: 62px; }
+.Ryu.punch1-1 .hurtBoxHead { height: 16px; width: 18px; position: absolute; left: 32px; }
+.Ryu.punch1-1 .hurtBoxTorso { height: 34px; width: 49px; position: absolute; top: 10px; left: 10px; }
+.Ryu.punch1-1 .hurtBoxLegs { height: 50px; width: 65px; position: absolute; top: 44px; }
+.Ryu.punch1-2 { background-position: -524px -699px; width: 107px; height: 95px; top: -95px; }
+.Ryu.punch1-2 .hitBox { height: 11px; width: 12px; position: absolute; top: 13px; left: 95px; }
+.Ryu.punch1-2 .hurtBoxHead { height: 16px; width: 20px; position: absolute; left: 35px; }
+.Ryu.punch1-2 .hurtBoxTorso { height: 34px; width: 47px; position: absolute; top: 10px; left: 14px; }
+.Ryu.punch1-2 .hurtBoxLegs { height: 51px; width: 65px; position: absolute; top: 44px; }
+.Ryu.punch1-3 { background-position: -434px -700px; width: 77px; height: 94px; top: -94px; }
+.Ryu.punch1-3 .hitBox { height: 12px; width: 15px; position: absolute; top: 12px; left: 62px; }
+.Ryu.punch1-3 .hurtBoxHead { height: 16px; width: 18px; position: absolute; left: 32px; }
+.Ryu.punch1-3 .hurtBoxTorso { height: 34px; width: 49px; position: absolute; top: 10px; left: 10px; }
+.Ryu.punch1-3 .hurtBoxLegs { height: 50px; width: 65px; position: absolute; top: 44px; }
+
+.Ryu.punch2-1 { background-position: -27px -823px; width: 65px; height: 94px; top: -94px; }
+.Ryu.punch2-2 { background-position: -107px -823px; width: 71px; height: 94px; top: -94px; }
+.Ryu.punch2-3 { background-position: -190px -823px; width: 109px; height: 93px; top: -93px; }
+.Ryu.punch2-4 { background-position: -107px -823px; width: 71px; height: 94px; top: -94px; }
+.Ryu.punch2-5 { background-position: -27px -823px; width: 65px; height: 94px; top: -94px; }
+
+.Ryu.punch3-1 { background-position: -27px -823px; width: 65px; height: 94px; top: -94px; }
+.Ryu.punch3-2 { background-position: -107px -823px; width: 71px; height: 94px; top: -94px; }
+.Ryu.punch3-3 { background-position: -190px -823px; width: 109px; height: 93px; top: -93px; }
+.Ryu.punch3-4 { background-position: -310px -822px; width: 80px; height: 93px; top: -93px; }
+.Ryu.punch3-5 { background-position: -404px -822px; width: 103px; height: 93px; top: -93px; }
+.Ryu.punch3-6 { background-position: -518px -822px; width: 76px; height: 93px; top: -93px; }
+.Ryu.punch3-7 { background-position: -5px -938px; width: 76px; height: 93px; top: -93px; }
+.Ryu.punch3-8 { background-position: -97px -937px; width: 69px; height: 94px; top: -94px; }
+
+.Ryu.shoryuken1-1 { height: 86px; width: 66px; background-position: -379px -2077px; top: -86px; left: 5px; }
+.Ryu.shoryuken1-2 { height: 90px; width: 78px; background-position: -461px -2073px; top: -90px; left: 5px; }
+.Ryu.shoryuken1-3 { height: 130px; width: 62px; background-position: -561px -2036px; top: -150px; }
+.Ryu.shoryuken1-4 { height: 130px; width: 62px; background-position: -561px -2036px; top: -170px; }
+.Ryu.shoryuken1-5 { height: 121px; width: 55px; background-position: -15px -2182px; top: -161px; }
+.Ryu.shoryuken1-6 { height: 117px; width: 59px; background-position: -93px -2186px; top: -137px; }
+.Ryu.shoryuken1-7 { height: 117px; width: 59px; background-position: -93px -2186px; top: -117px; }
+.Ryu.shoryuken1-8 { height: 100px; width: 62px; background-position: -171px -2203px; top: -100px; }
+
+.Ryu.shoryuken2-1 { height: 86px; width: 66px; background-position: -379px -2077px; top: -86px; left: 5px; }
+.Ryu.shoryuken2-2 { height: 90px; width: 78px; background-position: -461px -2073px; top: -90px; left: 5px; }
+.Ryu.shoryuken2-3 { height: 130px; width: 62px; background-position: -561px -2036px; top: -150px; }
+.Ryu.shoryuken2-4 { height: 130px; width: 62px; background-position: -561px -2036px; top: -170px; }
+.Ryu.shoryuken2-5 { height: 130px; width: 62px; background-position: -561px -2036px; top: -190px; }
+.Ryu.shoryuken2-6 { height: 121px; width: 55px; background-position: -15px -2182px; top: -181px; }
+.Ryu.shoryuken2-7 { height: 117px; width: 59px; background-position: -93px -2186px; top: -157px; }
+.Ryu.shoryuken2-8 { height: 117px; width: 59px; background-position: -93px -2186px; top: -137px; }
+.Ryu.shoryuken2-9 { height: 117px; width: 59px; background-position: -93px -2186px; top: -117px; }
+.Ryu.shoryuken2-10 { height: 100px; width: 62px; background-position: -171px -2203px; top: -100px; }
+
+.Ryu.shoryuken3-1 { height: 86px; width: 66px; background-position: -379px -2077px; top: -86px; left: 5px; }
+.Ryu.shoryuken3-2 { height: 90px; width: 78px; background-position: -461px -2073px; top: -90px; left: 5px; }
+.Ryu.shoryuken3-3 { height: 130px; width: 62px; background-position: -561px -2036px; top: -150px; }
+.Ryu.shoryuken3-4 { height: 130px; width: 62px; background-position: -561px -2036px; top: -170px; }
+.Ryu.shoryuken3-5 { height: 130px; width: 62px; background-position: -561px -2036px; top: -190px; }
+.Ryu.shoryuken3-6 { height: 130px; width: 62px; background-position: -561px -2036px; top: -210px; }
+.Ryu.shoryuken3-7 { height: 130px; width: 62px; background-position: -561px -2036px; top: -230px; }
+.Ryu.shoryuken3-8 { height: 121px; width: 55px; background-position: -15px -2182px; top: -221px; }
+.Ryu.shoryuken3-9 { height: 117px; width: 59px; background-position: -93px -2186px; top: -197px; }
+.Ryu.shoryuken3-10 { height: 117px; width: 59px; background-position: -93px -2186px; top: -177px; }
+.Ryu.shoryuken3-11 { height: 117px; width: 59px; background-position: -93px -2186px; top: -157px; }
+.Ryu.shoryuken3-12 { height: 117px; width: 59px; background-position: -93px -2186px; top: -137px; }
+.Ryu.shoryuken3-13 { height: 117px; width: 59px; background-position: -93px -2186px; top: -117px; }
+.Ryu.shoryuken3-14 { height: 100px; width: 62px; background-position: -171px -2203px; top: -100px; }
+
+.Ryu.projectile1, .Ryu.projectile2, .Ryu.projectile3 { position: absolute; }
+.Ryu.projectile1 div, .Ryu.projectile2 div, .Ryu.projectile3 div { background-image: url('../img/Ryu.gif'); margin: auto; position: absolute; }
+
+.Ryu.projectile1 .projectile1-1 { height: 31px; width: 58px; background-position: -12px -3111px; top: -15px; }
+.Ryu.projectile1 .projectile1-2 { height: 33px; width: 74px; background-position: -82px -3110px; top: -16px; left: -16px; }
+.Ryu.projectile1 .projectile1-3 { height: 25px; width: 50px; background-position: -169px -3113px; top: -12px; left: 8px; }
+.Ryu.projectile1 .projectile1-4 { height: 34px; width: 74px; background-position: -231px -3111px; top: -17px; left: -16px; }
+.Ryu.projectile1 .projectile1-5 { height: 30px; width: 60px; background-position: -318px -3112px; top: -15px; left: -2px; }
+.Ryu.projectile1 .projectile1-6 { height: 33px; width: 76px; background-position: -389px -3113px; top: -16px; left: -18px; }
+.Ryu.projectile1 .projectile1-7 { height: 24px; width: 52px; background-position: -477px -3117px; top: -12px; left: 6px; }
+.Ryu.projectile1 .projectile1-8 { height: 37px; width: 74px; background-position: -542px -3110px; top: -18px; left: -16px; }
+
+.Ryu.projectile1 .projectile1-impact-1 { height: 24px; width: 44px; background-position: -22px -3169px; top: -12px; }
+.Ryu.projectile1 .projectile1-impact-2 { height: 40px; width: 38px; background-position: -84px -3164px; top: -20px; left: 6px; }
+.Ryu.projectile1 .projectile1-impact-3 { height: 49px; width: 50px; background-position: -135px -3159px; top: -24px; left: -6px; }
+.Ryu.projectile1 .projectile1-impact-4 { height: 51px; width: 57px; background-position: -194px -3159px; top: -25px; left: -13px; }
+.Ryu.projectile1 .projectile1-impact-5 { height: 57px; width: 59px; background-position: -264px -3157px; top: -28px; left: -15px; }
+.Ryu.projectile1 .projectile1-impact-6 { height: 63px; width: 60px; background-position: -342px -3152px; top: -31px; left: -16px; }
+
+.Ryu.projectile2 div .hitBox { background-image: none; background-position: 0px 0px; top: 0px; }
+.Ryu.projectile2 .projectile2-1 { height: 33px; width: 74px; background-position: -14px -3230px; top: -16px; }
+.Ryu.projectile2 .projectile2-1 .hitBox { height: 33px; margin-left: 22px; width: 52px; }
+.Ryu.projectile2 .projectile2-2 { height: 34px; width: 74px; background-position: -103px -3231px; top: -17px; }
+.Ryu.projectile2 .projectile2-2 .hitBox { height: 26px; margin-left: 22px; width: 52px; top: 4px; }
+.Ryu.projectile2 .projectile2-3 { height: 33px; width: 76px; background-position: -190px -3232px; top: -16px; left: -2px; }
+.Ryu.projectile2 .projectile2-3 .hitBox { height: 33px; margin-left: 24px; width: 52px; }
+.Ryu.projectile2 .projectile2-4 { height: 37px; width: 74px; background-position: -278px -3231px; top: -18px; }
+.Ryu.projectile2 .projectile2-4 .hitBox { height: 37px; margin-left: 22px; width: 52px; }
+
+.Ryu.projectile2 .projectile2-impact-1 { height: 24px; width: 44px; background-position: -22px -3292px; top: -12px; }
+.Ryu.projectile2 .projectile2-impact-2 { height: 40px; width: 38px; background-position: -82px -3286px; top: -20px; left: 6px; }
+.Ryu.projectile2 .projectile2-impact-3 { height: 47px; width: 50px; background-position: -136px -3283px; top: -24px; left: -6px; }
+.Ryu.projectile2 .projectile2-impact-4 { height: 51px; width: 57px; background-position: -195px -3281px; top: -25px; left: -13px; }
+.Ryu.projectile2 .projectile2-impact-5 { height: 57px; width: 59px; background-position: -262px -3281px; top: -28px; left: -15px; }
+.Ryu.projectile2 .projectile2-impact-6 { height: 63px; width: 60px; background-position: -346px -3279px; top: -31px; left: -16px; }
+
+.Ryu.projectile3 .projectile3-1 { height: 50px; width: 90px; background-position: -8px -3362px; top: -25px; }
+.Ryu.projectile3 .projectile3-2 { height: 32px; width: 62px; background-position: -117px -3372px; top: -16px; left: 28px; }
+.Ryu.projectile3 .projectile3-3 { height: 53px; width: 110px; background-position: -193px -3362px; top: -26px; left: -20px; }
+.Ryu.projectile3 .projectile3-4 { height: 26px; width: 71px; background-position: -315px -3375px; top: -13px; left: 19px; }
+.Ryu.projectile3 .projectile3-5 { height: 53px; width: 92px; background-position: -401px -3361px; top: -26px; left: -2px; }
+.Ryu.projectile3 .projectile3-6 { height: 32px; width: 75px; background-position: -505px -3372px; top: -16px; left: 15px; }
+.Ryu.projectile3 .projectile3-7 { height: 50px; width: 87px; background-position: -10px -3427px; top: -25px; left: 3px; }
+.Ryu.projectile3 .projectile3-8 { height: 32px; width: 72px; background-position: -107px -3436px; top: -16px; left: 18px; }
+
+.Ryu.projectile3 .projectile3-impact-1 { height: 24px; width: 44px; background-position: -22px -3169px; top: -12px; }
+.Ryu.projectile3 .projectile3-impact-2 { height: 40px; width: 38px; background-position: -84px -3164px; top: -20px; left: 6px; }
+.Ryu.projectile3 .projectile3-impact-3 { height: 49px; width: 50px; background-position: -135px -3159px; top: -24px; left: -6px; }
+.Ryu.projectile3 .projectile3-impact-4 { height: 51px; width: 57px; background-position: -194px -3159px; top: -25px; left: -13px; }
+.Ryu.projectile3 .projectile3-impact-5 { height: 57px; width: 59px; background-position: -264px -3157px; top: -28px; left: -15px; }
+.Ryu.projectile3 .projectile3-impact-6 { height: 63px; width: 60px; background-position: -342px -3152px; top: -31px; left: -16px; }

@@ -1,0 +1,36 @@
+/* BEGIN - Dev * /
+.hitBox { background-color: #f00; opacity: 0.5; }
+.hurtBoxHead { background-color: #09f; opacity: 0.5; }
+.hurtBoxTorso { background-color: #09f; opacity: 0.5; }
+.hurtBoxLegs { background-color: #09f; opacity: 0.5; }
+/* END - Dev */
+#frameByFrame, #info { display: none; }
+
+#frameByFrame { border: 1px solid #000; height: 300px; float: right; width: 300px; }
+#frameByFrame .frameWindow { height: 250px; width: 300px; }
+#frameByFrame .frameWindow div.frames { position: absolute; top: 250px; right: 200px; }
+#frameByFrame .toggles { margin: 0px auto; text-align: center; width: 200px; }
+#frameByFrame .toggles .prev { width: 75px; }
+#frameByFrame .toggles .next { width: 75px; }
+#frameByFrame .spriteTypeOptions { margin: 0px auto; text-align: center; width: 200px; }
+
+#info { border: 1px solid #000; height: 300px; float: right; margin-right: 10px; width: 300px; }
+
+#background, #foreground, #scoreboard, #screen, #stage { height: 250px; width: 600px; }
+#background, #foreground, #scoreboard { position: absolute; top: 0; left: 0; }
+#player-2.character { -moz-transform: scaleX(-1); -o-transform: scaleX(-1); -webkit-transform: scaleX(-1); transform: scaleX(-1); filter: FlipH; -ms-filter: "FlipH"; }
+#screen { height: 250px; overflow: hidden; position: relative; width: 600px; border: 1px solid #000; }
+#stage { border-bottom: 1px solid #c0c0c0; height: 240px; position: relative; }
+#scoreboard { height: 50px; }
+.character { position: absolute; }
+.projectile { position: absolute; }
+
+.stat { background-color: #f00; border: 1px solid #000; height: 15px; margin-top: 10px; width: 200px; position: absolute; left: 80px; top: 0px; }
+.clock { border: 1px solid #000; height: 25px; margin: 5px auto; position: relative; width: 25px; }
+.clock div { margin: 0px auto; width: 20px; }
+.clock div h3 { margin: 1px auto; }
+#stats-2.stat { -moz-transform: scaleX(-1); -o-transform: scaleX(-1); -webkit-transform: scaleX(-1); transform: scaleX(-1); filter: FlipH; -ms-filter: "FlipH"; left: 319px; }
+.stat .hp { background-color: #ff0; height: 100%; width: 100%; }
+
+#stats-1.stat .hp { background-color: #fd0; margin-left: 50px; width: 75%; }
+#stats-2.stat .hp { background-color: #fa0; margin-left: 100px; width: 50%; }
